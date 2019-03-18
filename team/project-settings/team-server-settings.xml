@@ -1,0 +1,3 @@
+<team-server-settings hostAddress="git.intranet.neotys.com" port="8080"
+    protocol="git_http" repository="/svn/svnroot/R&amp;DCollabProjects"
+    resourcesFolderName="%resources%" thirdParty="true" tunnel=""/>

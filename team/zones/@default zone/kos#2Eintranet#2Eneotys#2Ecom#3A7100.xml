@@ -1,0 +1,5 @@
+<lg-host hostname="kos.intranet.neotys.com:7100" loadWeight="1"
+    sapSupport="false" standalone="false" supportWANEmulation="false"
+    uid="bca1aaf7-b494-489a-bb65-3da7ebc7c5b1" version="6.10.0 dev;build=branchHead-DEV">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>
